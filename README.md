@@ -7,5 +7,6 @@ Description:
 
 
  Deployed Site:
- https://lasjan2001.github.io/scheduler/
+https://lasjan2001.github.io/WorkDayScheduler/
+
  
